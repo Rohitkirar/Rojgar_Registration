@@ -1,0 +1,80 @@
+*{
+    margin: none;
+
+}
+#top_logo_section{
+    display: flex;
+    background-image: url(./indian-flag-india-day-background-png-image-download-5.png);
+    background-repeat:no-repeat ;
+    margin-top:0;
+    background-position: center;
+    background-size:cover;
+    text-align: center;
+    justify-content:center;
+    padding: 40px;
+    height: 8em;
+    background-color:rgb(218, 204, 152);
+    margin: 0;
+}
+#top_logo{
+    border-radius: 100% !important;
+}
+
+#home_navbar{
+   
+    background-color: black;
+    /* height:3em; */
+    padding: 5px;
+    /* margin-bottom: 20px; */
+    text-align: center;
+    
+}
+.search_nav{
+    text-align: right !important;
+   padding: 2px !important;
+   /* margin-top: 2px !important; */
+   color: blue !important;
+
+}
+
+.btn_nav{
+    
+   text-decoration: none;
+    font-size: large;
+    padding: 10px;
+    color:white;
+    font-weight: bolder;
+}
+
+#category{
+    background-image: url(./input-onlinepngtools.png);
+    background-size: cover;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    /* margin-bottom: 10em; */
+
+
+}
+
+#category_1{
+    height: 15em;
+}
+
+#category_2{
+    background-color: #ccc;
+    height: 25em;
+    width:40em;
+}
+
+
+#footer_down{
+    display: grid;
+    font-size: large;
+    font-weight: bolder;
+    background-color: black;
+    height: 10em;
+}
+.footer_info{
+    color:white;
+}
+
